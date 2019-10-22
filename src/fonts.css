@@ -1,0 +1,21 @@
+@font-face {
+        font-family: 'FIXEDSYS';
+        src: url(./fonts/fixedsys.eot);
+        src: url(./fonts/fixedsys.eot?#iefix) format("embedded-opentype"),
+                url(./fonts/fixedsys.woff) format("woff"), url(./fonts/fixedsys.ttf)
+                format("truetype");
+        font-style: normal
+}
+
+@font-face {
+        font-family: 'DECTERM';
+        src: url(./fonts/decterm.eot);
+        src: url(./fonts/decterm.eot?#iefix) format("embedded-opentype"),
+                url(./fonts/decterm.woff) format("woff"), url(./fonts/decterm.ttf)
+                format("truetype");
+        font-style: normal
+}
+
+
+
+
