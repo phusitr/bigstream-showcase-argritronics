@@ -1,6 +1,6 @@
 {
 	"sensorname":"barometer",
 	"sensortype":"8",
-	"accessurl":"https://bs-storage.agriculture.web.meca.in.th/v1.2/object/",
+	"accessurl":"https://<bigstream storage url>",
 	"filetype":"json"
 }
